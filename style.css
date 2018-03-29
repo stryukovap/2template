@@ -1,0 +1,103 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+header {
+    background-image: url(img/gradient_map_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-height: 307px;
+}
+
+.header_slogan {
+    margin: 0;
+    padding-top: 118.51px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 48px;
+    line-height: 58.99px;
+}
+
+.main_content {
+    width: 1024px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.main_content h1 {
+    padding: 0 49px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-size: 30px;
+    line-height: 58.99px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.main_content p {
+    margin-top: 35px;
+    padding: 0 48px;
+}
+
+.main_content b {
+    font-weight: 700;
+}
+
+.main_content h3 {
+    font-size: 24px;
+    line-height: 24px;
+    color: #325d72;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 73px;
+    padding: 0 48px;
+}
+hr{
+    width: 925px;
+height: 1px;
+background-color: #dddddd;
+}
+
+.main_content a {
+    text-decoration: none;
+    color: #4183c4;
+}
+
+.footer {
+    border: 1px solid #dddddd;
+    background-color: #f5f5f5;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 58.99px;
+    min-height: 124px;
+    
+}
+
+section {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.footer_copyright {
+    color: #bebebe;
+    padding: 0 48px;
+}
+.footer_nav ul {
+    list-style: none;
+    
+    
+}
+
+.footer_nav a{
+    text-decoration: none;
+    color: #4183c4;
+    display: inline-block;
+}
+
+.footer_nav {
+    width: 600px;
+}
