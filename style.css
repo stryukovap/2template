@@ -9,6 +9,7 @@ header {
     background-repeat: no-repeat;
     background-position: top;
     min-height: 307px;
+    min-width: 1024px;
 }
 
 .header_slogan {
@@ -85,11 +86,9 @@ section {
 .footer_copyright {
     color: #bebebe;
     padding: 0 48px;
-}
-
-.footer_copyright{
     width: 250px;
 }
+
 .footer_nav a {
     text-decoration: none;
     color: #4183c4;
@@ -98,7 +97,7 @@ section {
 }
 
 .footer_nav {
-    width: 600px;
+    width: 625px;
     display: inline-block;
     text-align: right;
 }
