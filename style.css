@@ -87,11 +87,12 @@ body {
     color: #4183c4;
     display: inline-block;
     margin-left: 25px;
+    text-align: right;
 }
 
 .footer_nav {
-    width: 625px;
+   
     display: inline-block;
     text-align: right;
-    padding: 16px 0 34px 48px;
+    padding: 16px 50px 34px 48px;
 }
